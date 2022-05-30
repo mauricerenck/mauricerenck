@@ -1,6 +1,10 @@
-### Hi there 👋
-
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=mauricerenck&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+
+
+## Blogposts (German)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <!--
 **mauricerenck/mauricerenck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
