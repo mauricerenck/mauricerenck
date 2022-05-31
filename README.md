@@ -1,5 +1,4 @@
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=mauricerenck&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
-
+Hello! 👋🏻
 
 ## Blogposts (German)
 <!-- BLOG-POST-LIST:START -->
