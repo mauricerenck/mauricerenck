@@ -2,11 +2,11 @@ Hello! 👋🏻
 
 ## Blogposts (German)
 <!-- BLOG-POST-LIST:START -->
+- [Realitätsschock](https://maurice-renck.de/de/leseliste/realitaetsschock)
 - [Blumenwiese](https://maurice-renck.de/de/notes/2022/blumenwiese)
 - [For the Joy of Work](https://maurice-renck.de/de/notes/2022/for-the-joy-of-work)
 - [Überflussland](https://maurice-renck.de/de/notes/2022/ueberflussland)
 - [Regen](https://maurice-renck.de/de/blog/2022/regen)
-- [Ein Update! Ein Update!](https://maurice-renck.de/de/blog/2022/ein-update-ein-update)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
