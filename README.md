@@ -2,11 +2,11 @@ Hello! 👋🏻
 
 ## Blogposts (German)
 <!-- BLOG-POST-LIST:START -->
+- [Ein s.g. Mikrofon](https://maurice-renck.de/de/notes/2022/ein-s-g-mikrofon)
+- [Nach zwei Jahren wieder auf der Bühne](https://maurice-renck.de/de/blog/2022/nach-zwei-jahren-wieder-auf-der-buehne)
 - [Feldweg](https://maurice-renck.de/de/notes/2022/feldweg)
 - [Realitätsschock](https://maurice-renck.de/de/leseliste/realitaetsschock)
 - [Blumenwiese](https://maurice-renck.de/de/notes/2022/blumenwiese)
-- [For the Joy of Work](https://maurice-renck.de/de/notes/2022/for-the-joy-of-work)
-- [Überflussland](https://maurice-renck.de/de/notes/2022/ueberflussland)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
