@@ -2,11 +2,11 @@ Hello! 👋🏻
 
 ## Blogposts (German)
 <!-- BLOG-POST-LIST:START -->
+- [Ausgestorben und Gefährdet](https://maurice-renck.de/de/notes/2022/ausgestorben-und-gefaehrdet)
 - [Ein s.g. Mikrofon](https://maurice-renck.de/de/notes/2022/ein-s-g-mikrofon)
 - [Nach zwei Jahren wieder auf der Bühne](https://maurice-renck.de/de/blog/2022/nach-zwei-jahren-wieder-auf-der-buehne)
 - [Feldweg](https://maurice-renck.de/de/notes/2022/feldweg)
 - [Realitätsschock](https://maurice-renck.de/de/leseliste/realitaetsschock)
-- [Blumenwiese](https://maurice-renck.de/de/notes/2022/blumenwiese)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
