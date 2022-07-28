@@ -2,11 +2,11 @@ Hello! 👋🏻
 
 ## Blogposts (German)
 <!-- BLOG-POST-LIST:START -->
+- [Mit Mark Zuckerberg am Telefon](https://maurice-renck.de/de/blog/2022/mit-mark-zuckerberg-am-telefon)
 - [20 Jahre](https://maurice-renck.de/de/blog/2022/20-jahre)
 - [Nukular!](https://maurice-renck.de/de/blog/2022/nukular)
 - [Climate tipping points](https://maurice-renck.de/de/notes/2022/1655984008)
 - [Ausgestorben und Gefährdet](https://maurice-renck.de/de/notes/2022/ausgestorben-und-gefaehrdet)
-- [Ein s.g. Mikrofon](https://maurice-renck.de/de/notes/2022/ein-s-g-mikrofon)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
