@@ -2,11 +2,11 @@ Hello! 👋🏻
 
 ## Blogposts (German)
 <!-- BLOG-POST-LIST:START -->
+- [So eine Frechheit!](https://maurice-renck.de/de/blog/2022/so-eine-frechheit)
 - [Generation Games](https://maurice-renck.de/de/notes/2022/1659585104)
 - [Mit Mark Zuckerberg am Telefon](https://maurice-renck.de/de/blog/2022/mit-mark-zuckerberg-am-telefon)
 - [20 Jahre](https://maurice-renck.de/de/blog/2022/20-jahre)
 - [Nukular!](https://maurice-renck.de/de/blog/2022/nukular)
-- [Climate tipping points](https://maurice-renck.de/de/notes/2022/1655984008)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
