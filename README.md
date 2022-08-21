@@ -2,11 +2,11 @@ Hello! 👋🏻
 
 ## Blogposts (German)
 <!-- BLOG-POST-LIST:START -->
+- [Georg Kreisler - traurig aktuell](https://maurice-renck.de/de/notes/2022/1661101276)
 - [Notiz vom 15.08.2022](https://maurice-renck.de/de/notes/2022/1660576336)
 - [So eine Frechheit!](https://maurice-renck.de/de/blog/2022/so-eine-frechheit)
 - [Generation Games](https://maurice-renck.de/de/notes/2022/1659585104)
 - [Mit Mark Zuckerberg am Telefon](https://maurice-renck.de/de/blog/2022/mit-mark-zuckerberg-am-telefon)
-- [20 Jahre](https://maurice-renck.de/de/blog/2022/20-jahre)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
