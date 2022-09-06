@@ -2,11 +2,11 @@ Hello! 👋🏻
 
 ## Blogposts (German)
 <!-- BLOG-POST-LIST:START -->
+- [Wie Sprache sich wandelt.](https://maurice-renck.de/de/notes/2022/1662483208)
 - [Nachmittage](https://maurice-renck.de/de/leseliste/nachmittage)
 - [Notiz vom 30.08.2022](https://maurice-renck.de/de/notes/2022/1661866905)
 - [Georg Kreisler - traurig aktuell](https://maurice-renck.de/de/notes/2022/1661101276)
 - [Notiz vom 15.08.2022](https://maurice-renck.de/de/notes/2022/1660576336)
-- [So eine Frechheit!](https://maurice-renck.de/de/blog/2022/so-eine-frechheit)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
