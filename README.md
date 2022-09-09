@@ -2,11 +2,11 @@ Hello! 👋🏻
 
 ## Blogposts (German)
 <!-- BLOG-POST-LIST:START -->
+- [Vom Mann, der auszog, um den Frühling zu suchen](https://maurice-renck.de/de/leseliste/vom-mann-der-auszog-um-den-fruehling-zu-suchen)
 - [Wie Sprache sich wandelt.](https://maurice-renck.de/de/notes/2022/1662483208)
 - [Nachmittage](https://maurice-renck.de/de/leseliste/nachmittage)
 - [Notiz vom 30.08.2022](https://maurice-renck.de/de/notes/2022/1661866905)
 - [Georg Kreisler - traurig aktuell](https://maurice-renck.de/de/notes/2022/1661101276)
-- [Notiz vom 15.08.2022](https://maurice-renck.de/de/notes/2022/1660576336)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
