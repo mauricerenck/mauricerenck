@@ -6,7 +6,7 @@ Hello! 👋🏻
 - [FREIHAFEN](https://maurice-renck.de/de/notes/2022/freihafen)
 - [Tauschwohnung](https://maurice-renck.de/de/notes/2022/tauschwohnung)
 - [Vom Mann, der auszog, um den Frühling zu suchen](https://maurice-renck.de/de/leseliste/vom-mann-der-auszog-um-den-fruehling-zu-suchen)
-- [Wie Sprache sich wandelt.](https://maurice-renck.de/de/notes/2022/1662483208)
+- [Nachmittage](https://maurice-renck.de/de/leseliste/nachmittage)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
