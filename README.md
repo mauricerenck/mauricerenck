@@ -2,11 +2,11 @@ Hello! 👋🏻
 
 ## Blogposts (German)
 <!-- BLOG-POST-LIST:START -->
+- [Die Buchhandlung umkreisen](https://maurice-renck.de/de/blog/2022/die-buchhandlung-umkreisen)
 - [Notiz vom 07.10.2022](https://maurice-renck.de/de/notes/2022/1665141573)
 - [Isaac Asimov](https://maurice-renck.de/de/notes/2022/isaac-asimov)
 - [Herbstputz](https://maurice-renck.de/de/blog/2022/herbstputz)
 - [New York und der Rest der Welt](https://maurice-renck.de/de/leseliste/new-york-und-der-rest-der-welt)
-- [FREIHAFEN](https://maurice-renck.de/de/notes/2022/freihafen)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
