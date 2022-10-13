@@ -2,11 +2,11 @@ Hello! 👋🏻
 
 ## Blogposts (German)
 <!-- BLOG-POST-LIST:START -->
+- [Notiz vom 13.10.2022](https://maurice-renck.de/de/notes/2022/1665650102)
 - [Ein interessanter Einblick in den NDR](https://maurice-renck.de/de/notes/2022/ein-interessanter-einblick-in-den-ndr)
 - [Vier Arten zu klingeln](https://maurice-renck.de/de/blog/2022/vier-arten-zu-klingeln)
 - [Die Buchhandlung umkreisen](https://maurice-renck.de/de/blog/2022/die-buchhandlung-umkreisen)
 - [Notiz vom 07.10.2022](https://maurice-renck.de/de/notes/2022/1665141573)
-- [Isaac Asimov](https://maurice-renck.de/de/notes/2022/isaac-asimov)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
