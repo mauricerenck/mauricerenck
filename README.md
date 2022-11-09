@@ -2,11 +2,11 @@ Hello! 👋🏻
 
 ## Blogposts (German)
 <!-- BLOG-POST-LIST:START -->
+- [Mastodon &amp; Twitter](https://maurice-renck.de/de/notes/2022/mastodon-twitter)
 - [Mittagsstunde](https://maurice-renck.de/de/leseliste/mittagsstunde)
 - [Pocket Casts ist Open Source](https://maurice-renck.de/de/notes/2022/pocket-casts-ist-opensource)
 - [Notiz vom 13.10.2022](https://maurice-renck.de/de/notes/2022/1665650102)
 - [Ein interessanter Einblick in den NDR](https://maurice-renck.de/de/notes/2022/ein-interessanter-einblick-in-den-ndr)
-- [Vier Arten zu klingeln](https://maurice-renck.de/de/blog/2022/vier-arten-zu-klingeln)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
