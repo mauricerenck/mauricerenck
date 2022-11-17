@@ -2,11 +2,11 @@ Hello! 👋🏻
 
 ## Blogposts (German)
 <!-- BLOG-POST-LIST:START -->
+- [Ein Sommer in Niendorf](https://maurice-renck.de/de/leseliste/ein-sommer-in-niendorf)
 - [Teenage Engineering Choir](https://maurice-renck.de/de/notes/2022/teenage-engineering-choir)
 - [Notiz vom 13.11.2022](https://maurice-renck.de/de/notes/2022/1668354160)
 - [Mastodon &amp; Twitter](https://maurice-renck.de/de/notes/2022/mastodon-twitter)
 - [Mittagsstunde](https://maurice-renck.de/de/leseliste/mittagsstunde)
-- [Pocket Casts ist Open Source](https://maurice-renck.de/de/notes/2022/pocket-casts-ist-opensource)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
