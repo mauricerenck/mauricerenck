@@ -2,7 +2,7 @@ Hello! 👋🏻
 
 ## Blogposts (German)
 <!-- BLOG-POST-LIST:START -->
-- [Anpassungen für ActivityPub](https://maurice-renck.de/de/notes/2022/anpassungen-fuer-activitypub)
+- [hallo Welt!](https://maurice-renck.de/de/notes/2022/hallo-welt)
 - [Der Elefant verschwindet](https://maurice-renck.de/de/leseliste/der-elefant-verschwindet)
 - [Warntag](https://maurice-renck.de/de/notes/2022/warntag)
 - [Meine Seite via ActivityPub](https://maurice-renck.de/de/notes/2022/meine-seite-via-activitypub)
