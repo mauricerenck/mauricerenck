@@ -2,11 +2,11 @@ Hello! 👋🏻
 
 ## Blogposts (German)
 <!-- BLOG-POST-LIST:START -->
+- [Mein Jahr in Blogs](https://maurice-renck.de/de/blog/2022/mein-jahr-in-blogs)
 - [Der Elefant verschwindet](https://maurice-renck.de/de/leseliste/der-elefant-verschwindet)
 - [Warntag](https://maurice-renck.de/de/notes/2022/warntag)
 - [Meine Seite via ActivityPub](https://maurice-renck.de/de/notes/2022/meine-seite-via-activitypub)
 - [Ich schreibe auch woanders](https://maurice-renck.de/de/notes/2022/ich-schreibe-auch-woanders)
-- [Ein Sommer in Niendorf](https://maurice-renck.de/de/leseliste/ein-sommer-in-niendorf)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
