@@ -2,11 +2,11 @@ Hello! 👋🏻
 
 ## Blogposts (German)
 <!-- BLOG-POST-LIST:START -->
+- [Auto-Tagging](https://maurice-renck.de/de/notes/2022/auto-tagging)
 - [Notiz vom 29.12.2022](https://maurice-renck.de/de/notes/2022/1672315259)
 - [In die Bücher schauen: Lesen 2022](https://maurice-renck.de/de/blog/2022/in-die-buecher-schauen-lesen-2022)
 - [Mein Jahr in Blogs](https://maurice-renck.de/de/blog/2022/mein-jahr-in-blogs)
 - [Der Elefant verschwindet](https://maurice-renck.de/de/leseliste/der-elefant-verschwindet)
-- [Warntag](https://maurice-renck.de/de/notes/2022/warntag)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
