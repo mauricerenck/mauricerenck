@@ -2,11 +2,11 @@ Hello! 👋🏻
 
 ## Blogposts (German)
 <!-- BLOG-POST-LIST:START -->
+- [Bring back personal blogging](https://maurice-renck.de/de/notes/2023/bring-back-personal-blogging)
+- [Woche 1](https://maurice-renck.de/de/blog/2023/kw-1)
 - [PersonalSit.es](https://maurice-renck.de/de/notes/2023/personalsit-es)
 - [Notiz vom 01.01.2023](https://maurice-renck.de/de/notes/2023/1672577219)
 - [Guten Rutsch](https://maurice-renck.de/de/notes/2022/guten-rutsch)
-- [Auto-Tagging](https://maurice-renck.de/de/notes/2022/auto-tagging)
-- [Notiz vom 29.12.2022](https://maurice-renck.de/de/notes/2022/1672315259)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
