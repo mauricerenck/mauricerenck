@@ -2,11 +2,11 @@ Hello! 👋🏻
 
 ## Blogposts (German)
 <!-- BLOG-POST-LIST:START -->
+- [BBC World Service](https://maurice-renck.de/de/notes/2023/bbc-world-service)
 - [Bring back personal blogging](https://maurice-renck.de/de/notes/2023/bring-back-personal-blogging)
 - [Woche 1](https://maurice-renck.de/de/blog/2023/kw-1)
 - [PersonalSit.es](https://maurice-renck.de/de/notes/2023/personalsit-es)
 - [Notiz vom 01.01.2023](https://maurice-renck.de/de/notes/2023/1672577219)
-- [Guten Rutsch](https://maurice-renck.de/de/notes/2022/guten-rutsch)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
