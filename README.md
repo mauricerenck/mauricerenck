@@ -2,11 +2,11 @@ Hello! 👋🏻
 
 ## Blogposts (German)
 <!-- BLOG-POST-LIST:START -->
+- [OgImage ausgetauscht](https://maurice-renck.de/de/notes/2023/ogimage-ausgetauscht)
 - [Die Meerjungfrau von Black Conch](https://maurice-renck.de/de/leseliste/die-meerjungfrau-von-black-conch)
 - [Notiz vom 08.01.2023](https://maurice-renck.de/de/notes/2023/1673213440)
 - [BBC World Service](https://maurice-renck.de/de/notes/2023/bbc-world-service)
 - [Bring back personal blogging](https://maurice-renck.de/de/notes/2023/bring-back-personal-blogging)
-- [Woche 1](https://maurice-renck.de/de/blog/2023/kw-1)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
