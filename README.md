@@ -2,11 +2,11 @@ Hello! 👋🏻
 
 ## Blogposts (German)
 <!-- BLOG-POST-LIST:START -->
+- [Spreeblick News](https://maurice-renck.de/de/notes/2023/spreeblick-news)
 - [Tokimeki Mastodon](https://maurice-renck.de/de/notes/2023/tokimeki-mastodon)
 - [Der gefesselte Prometheus](https://maurice-renck.de/de/leseliste/der-gefesselte-prometheus)
 - [OgImage ausgetauscht](https://maurice-renck.de/de/notes/2023/ogimage-ausgetauscht)
 - [Die Meerjungfrau von Black Conch](https://maurice-renck.de/de/leseliste/die-meerjungfrau-von-black-conch)
-- [Notiz vom 08.01.2023](https://maurice-renck.de/de/notes/2023/1673213440)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
