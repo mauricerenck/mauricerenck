@@ -4,9 +4,9 @@ Hello! 👋🏻
 <!-- BLOG-POST-LIST:START -->
 - [Spreeblick News](https://maurice-renck.de/de/notes/2023/spreeblick-news)
 - [Tokimeki Mastodon](https://maurice-renck.de/de/notes/2023/tokimeki-mastodon)
+- [Woche 2](https://maurice-renck.de/de/blog/2023/kw-2)
 - [Der gefesselte Prometheus](https://maurice-renck.de/de/leseliste/der-gefesselte-prometheus)
 - [OgImage ausgetauscht](https://maurice-renck.de/de/notes/2023/ogimage-ausgetauscht)
-- [Die Meerjungfrau von Black Conch](https://maurice-renck.de/de/leseliste/die-meerjungfrau-von-black-conch)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
