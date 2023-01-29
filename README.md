@@ -2,11 +2,11 @@ Hello! 👋🏻
 
 ## Blogposts (German)
 <!-- BLOG-POST-LIST:START -->
+- [Neuland Harburg: Zerstörter Moorboden liegt noch immer brach](https://maurice-renck.de/de/notes/2023/1675000509)
 - [Wochenrückblick 3](https://maurice-renck.de/de/blog/2023/kw-3)
 - [The Shit Show](https://maurice-renck.de/de/notes/2023/the-shit-show)
 - [Ren - Hi Ren](https://maurice-renck.de/de/notes/2023/ren-hi-ren)
 - [Elon hat den Vogel abgeschossen](https://maurice-renck.de/de/blog/2023/elon-hat-den-vogel-abgeschossen)
-- [Twitter Login](https://maurice-renck.de/de/notes/2023/twitter-login)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
