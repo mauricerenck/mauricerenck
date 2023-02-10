@@ -2,11 +2,11 @@ Hello! 👋🏻
 
 ## Blogposts (German)
 <!-- BLOG-POST-LIST:START -->
+- [The fairy tales of the fossil fuel industry](https://maurice-renck.de/de/notes/2023/the-fairy-tales-of-the-fossil-fuel-industry)
 - [Wochenrückblick 5](https://maurice-renck.de/de/blog/2023/kw-5)
 - [CatGPT](https://maurice-renck.de/de/notes/2023/catgpt)
 - [Wochenrückblick 4](https://maurice-renck.de/de/blog/2023/kw-4)
 - [Neuland Harburg: Zerstörter Moorboden liegt noch immer brach](https://maurice-renck.de/de/notes/2023/1675000509)
-- [Wochenrückblick 3](https://maurice-renck.de/de/blog/2023/kw-3)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
