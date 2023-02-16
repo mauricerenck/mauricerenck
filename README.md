@@ -2,11 +2,11 @@ Hello! 👋🏻
 
 ## Blogposts (German)
 <!-- BLOG-POST-LIST:START -->
+- [Notiz vom 16.02.2023](https://maurice-renck.de/de/notes/2023/1676545681)
+- [Sitemap weg](https://maurice-renck.de/de/notes/2023/sitemap-weg)
 - [Wochenrückblick 6](https://maurice-renck.de/de/blog/2023/kw-6)
 - [Der Klang der Wälder](https://maurice-renck.de/de/leseliste/der-klang-der-waelder)
 - [The fairy tales of the fossil fuel industry](https://maurice-renck.de/de/notes/2023/the-fairy-tales-of-the-fossil-fuel-industry)
-- [Wochenrückblick 5](https://maurice-renck.de/de/blog/2023/kw-5)
-- [CatGPT](https://maurice-renck.de/de/notes/2023/catgpt)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
