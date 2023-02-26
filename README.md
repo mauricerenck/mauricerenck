@@ -2,11 +2,11 @@ Hello! 👋🏻
 
 ## Blogposts (German)
 <!-- BLOG-POST-LIST:START -->
+- [Wochenrückblick 8](https://maurice-renck.de/de/blog/2023/kw-8)
 - [Wochenrückblicke](https://maurice-renck.de/de/notes/2023/wochenrueckblicke)
 - [Wochenrückblick 7](https://maurice-renck.de/de/blog/2023/kw-7)
 - [Notiz vom 16.02.2023](https://maurice-renck.de/de/notes/2023/1676545681)
 - [Sitemap weg](https://maurice-renck.de/de/notes/2023/sitemap-weg)
-- [Wochenrückblick 6](https://maurice-renck.de/de/blog/2023/kw-6)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
