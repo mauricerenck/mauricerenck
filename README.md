@@ -2,11 +2,11 @@ Hello! 👋🏻
 
 ## Blogposts (German)
 <!-- BLOG-POST-LIST:START -->
+- [Notiz vom 07.03.2023](https://maurice-renck.de/de/notes/2023/1678197282)
 - [Washington Post Engineering](https://maurice-renck.de/de/notes/2023/washington-post-engineering)
 - [Über RSS](https://maurice-renck.de/de/notes/2023/ueber-rss)
 - [Wochenrückblick 9](https://maurice-renck.de/de/blog/2023/kw9)
 - [Genehmigung für 20 Jahre: LNG-Schiff darf Wattenmeer chloren - taz.de](https://maurice-renck.de/de/notes/2023/1677960439)
-- [Die Zukunft der ARD](https://maurice-renck.de/de/notes/2023/die-zukunft-der-ard)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
