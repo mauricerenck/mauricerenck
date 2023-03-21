@@ -2,11 +2,11 @@ Hello! 👋🏻
 
 ## Blogposts (German)
 <!-- BLOG-POST-LIST:START -->
+- [Klimakatastrophe- Wir können auch anders](https://maurice-renck.de/de/notes/2023/klimakatastrophe-wir-koennen-auch-anders)
 - [Wochenrückblick 11](https://maurice-renck.de/de/blog/2023/kw11)
 - [Creating Isometric RPG Game Backgrounds](https://maurice-renck.de/de/notes/2023/creating-isometric-rpg-game-backgrounds)
 - [Wochenrückblick 10](https://maurice-renck.de/de/blog/2023/kw10)
 - [Der Roman ist die Form des Teufels](https://maurice-renck.de/de/leseliste/der-roman-ist-die-form-des-teufels)
-- [Notiz vom 07.03.2023](https://maurice-renck.de/de/notes/2023/1678197282)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
