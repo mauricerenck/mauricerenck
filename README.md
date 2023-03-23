@@ -2,11 +2,11 @@ Hello! 👋🏻
 
 ## Blogposts (German)
 <!-- BLOG-POST-LIST:START -->
+- [&#39;nen weichen Keks](https://maurice-renck.de/de/notes/2023/nen-weichen-keks)
 - [Fingerabdrücke im Web](https://maurice-renck.de/de/notes/2023/fingerabdruecke-im-web)
 - [Klimakatastrophe- Wir können auch anders](https://maurice-renck.de/de/notes/2023/klimakatastrophe-wir-koennen-auch-anders)
 - [Wochenrückblick 11](https://maurice-renck.de/de/blog/2023/kw11)
 - [Creating Isometric RPG Game Backgrounds](https://maurice-renck.de/de/notes/2023/creating-isometric-rpg-game-backgrounds)
-- [Wochenrückblick 10](https://maurice-renck.de/de/blog/2023/kw10)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
