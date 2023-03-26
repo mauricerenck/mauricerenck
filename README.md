@@ -2,11 +2,11 @@ Hello! 👋🏻
 
 ## Blogposts (German)
 <!-- BLOG-POST-LIST:START -->
+- [Wochenrückblick 12](https://maurice-renck.de/de/blog/2023/kw12)
 - [Twitter Blue](https://maurice-renck.de/de/notes/2023/twitter-blue)
 - [&#39;nen weichen Keks](https://maurice-renck.de/de/notes/2023/nen-weichen-keks)
 - [Fingerabdrücke im Web](https://maurice-renck.de/de/notes/2023/fingerabdruecke-im-web)
 - [Klimakatastrophe- Wir können auch anders](https://maurice-renck.de/de/notes/2023/klimakatastrophe-wir-koennen-auch-anders)
-- [Wochenrückblick 11](https://maurice-renck.de/de/blog/2023/kw11)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
