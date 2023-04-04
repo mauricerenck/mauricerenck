@@ -2,11 +2,11 @@ Hello! 👋🏻
 
 ## Blogposts (German)
 <!-- BLOG-POST-LIST:START -->
+- [Brid.gy Twitter Support](https://maurice-renck.de/de/blog/2023/brid-gy-twitter-support)
 - [Wochenrückblick 13](https://maurice-renck.de/de/blog/2023/kw13)
 - [Gedanken über Fotos](https://maurice-renck.de/de/blog/2023/gedanken-ueber-fotos)
 - [Wochenrückblick 12](https://maurice-renck.de/de/blog/2023/kw12)
 - [Twitter Blue](https://maurice-renck.de/de/notes/2023/twitter-blue)
-- [&#39;nen weichen Keks](https://maurice-renck.de/de/notes/2023/nen-weichen-keks)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
