@@ -2,11 +2,11 @@ Hello! 👋🏻
 
 ## Blogposts (German)
 <!-- BLOG-POST-LIST:START -->
+- [Grids](https://maurice-renck.de/de/notes/2023/grids)
 - [Notiz vom 04.04.2023](https://maurice-renck.de/de/notes/2023/1680608632)
 - [Brid.gy Twitter Support](https://maurice-renck.de/de/blog/2023/brid-gy-twitter-support)
 - [Wochenrückblick 13](https://maurice-renck.de/de/blog/2023/kw13)
 - [Gedanken über Fotos](https://maurice-renck.de/de/blog/2023/gedanken-ueber-fotos)
-- [Wochenrückblick 12](https://maurice-renck.de/de/blog/2023/kw12)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
