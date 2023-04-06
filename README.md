@@ -2,11 +2,11 @@ Hello! 👋🏻
 
 ## Blogposts (German)
 <!-- BLOG-POST-LIST:START -->
+- [Auch Feedly stellt Twitter-Integration ein](https://maurice-renck.de/de/notes/2023/auch-feedly-stellt-twitter-integration-ein)
 - [Grids](https://maurice-renck.de/de/notes/2023/grids)
 - [Notiz vom 04.04.2023](https://maurice-renck.de/de/notes/2023/1680608632)
 - [Brid.gy Twitter Support](https://maurice-renck.de/de/blog/2023/brid-gy-twitter-support)
 - [Wochenrückblick 13](https://maurice-renck.de/de/blog/2023/kw13)
-- [Gedanken über Fotos](https://maurice-renck.de/de/blog/2023/gedanken-ueber-fotos)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
