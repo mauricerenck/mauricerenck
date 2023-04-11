@@ -2,11 +2,11 @@ Hello! 👋🏻
 
 ## Blogposts (German)
 <!-- BLOG-POST-LIST:START -->
+- [Home Office Tour](https://maurice-renck.de/de/notes/2023/home-office-tour)
 - [Wochenrückblick 14](https://maurice-renck.de/de/blog/2023/kw14)
 - [Datenleck bei Samsung: Ingenieure schicken vertrauliche Daten an ChatGPT](https://maurice-renck.de/de/notes/2023/1680944347)
 - [Discover the IndieWeb](https://maurice-renck.de/de/notes/2023/discover-the-indieweb)
 - [Auch Feedly stellt Twitter-Integration ein](https://maurice-renck.de/de/notes/2023/auch-feedly-stellt-twitter-integration-ein)
-- [Grids](https://maurice-renck.de/de/notes/2023/grids)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
