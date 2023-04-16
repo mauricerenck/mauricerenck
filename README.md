@@ -2,11 +2,11 @@ Hello! 👋🏻
 
 ## Blogposts (German)
 <!-- BLOG-POST-LIST:START -->
+- [Wochenrückblick 15](https://maurice-renck.de/de/blog/2023/kw15)
 - [Tweets mit 10.000 Zeichen - ohne Twitter Blue!](https://maurice-renck.de/de/blog/2023/tweets-mit-10-000-ohne-twitter-blue)
 - [Feedly vs. Reeder](https://maurice-renck.de/de/blog/2023/feedly-vs-reeder)
 - [Home Office Tour](https://maurice-renck.de/de/notes/2023/home-office-tour)
 - [Wochenrückblick 14](https://maurice-renck.de/de/blog/2023/kw14)
-- [Datenleck bei Samsung: Ingenieure schicken vertrauliche Daten an ChatGPT](https://maurice-renck.de/de/notes/2023/1680944347)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
