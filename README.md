@@ -1,13 +1,6 @@
 Hello! 👋🏻
 
-## Blogposts (German)
-<!-- BLOG-POST-LIST:START -->
-- [RCE #Remote­Code­Execution](https://maurice-renck.de/de/leseliste/rce-remote-code-execution)
-- [Boys Club](https://maurice-renck.de/de/notes/2023/boys-club)
-- [Eine IndieWeb Community](https://maurice-renck.de/de/blog/2023/indieweb-community)
-- [Wochenrückblick 15](https://maurice-renck.de/de/blog/2023/kw15)
-- [Tweets mit 10.000 Zeichen - ohne Twitter Blue!](https://maurice-renck.de/de/blog/2023/tweets-mit-10-000-ohne-twitter-blue)
-<!-- BLOG-POST-LIST:END -->
+I am Maurice, I am developing ideas & tools for digital storytelling and an open web. 
 
 <!--
 **mauricerenck/mauricerenck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
